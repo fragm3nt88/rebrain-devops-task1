@@ -1,4 +1,4 @@
-# Project Title
+# DevOps course - Task1
 
 My first project, created during **DevOps** course on rebrainme.com
 
